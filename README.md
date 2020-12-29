@@ -1,13 +1,13 @@
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
+*** make this better, please fork the track-your-day and create a pull request or simply open
 *** an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** victorgreco, repo_name, twitter_handle, email
+*** victorgreco, track-your-day, twitter_handle, email
 -->
 
 
@@ -30,30 +30,28 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/victorgreco/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/victorgreco/track-your-day">
+    <img src="images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Track Your Day</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Web solution born to help students to manage their classes, exams, shoppings and daily basis tasks.
     <br />
-    <a href="https://github.com/victorgreco/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/victorgreco/track-your-day"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/victorgreco/repo_name">View Demo</a>
+    <a href="https://github.com/victorgreco/track-your-day">View Demo</a>
     ·
-    <a href="https://github.com/victorgreco/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/victorgreco/track-your-day/issues">report Bug</a>
     ·
-    <a href="https://github.com/victorgreco/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/victorgreco/track-your-day/issues">Request Feature</a>
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -80,7 +78,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`victorgreco`, `repo_name`, `twitter_handle`, `email`
+`victorgreco`, `track-your-day`, `twitter_handle`, `email`
 
 
 ### Built With
@@ -106,9 +104,9 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Clone the repo
+1. Clone the track-your-day
 ```sh
-git clone https://github.com/victorgreco/repo_name.git
+git clone https://github.com/victorgreco/track-your-day.git
 ```
 2. Install NPM packages
 ```sh
@@ -129,7 +127,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/victorgreco/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/victorgreco/track-your-day/issues) for a list of proposed features (and known issues).
 
 
 
@@ -158,7 +156,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Victor Greco - [linkedin](https://www.linkedin.com/in/victor-greco/) - victorgreco263@gmail.com
 
-Project Link: [https://github.com/victorgreco/repo_name](https://github.com/victorgreco/repo_name)
+Project Link: [https://github.com/victorgreco/track-your-day](https://github.com/victorgreco/track-your-day)
 
 
 
@@ -171,20 +169,47 @@ Project Link: [https://github.com/victorgreco/repo_name](https://github.com/vict
 
 
 
+# track-your-day
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/victorgreco/repo.svg?style=flat-square
-[contributors-url]: https://github.com/victorgreco/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/victorgreco/repo.svg?style=flat-square
-[forks-url]: https://github.com/victorgreco/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/victorgreco/repo.svg?style=flat-square
-[stars-url]: https://github.com/victorgreco/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/victorgreco/repo.svg?style=flat-square
-[issues-url]: https://github.com/victorgreco/repo/issues
-[license-shield]: https://img.shields.io/github/license/victorgreco/repo.svg?style=flat-square
-[license-url]: https://github.com/victorgreco/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/victorgreco/track-your-day.svg?style=flat-square
+[contributors-url]: https://github.com/victorgreco/track-your-day/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/victorgreco/track-your-day.svg?style=flat-square
+[forks-url]: https://github.com/victorgreco/track-your-day/network/members
+[stars-shield]: https://img.shields.io/github/stars/victorgreco/track-your-day.svg?style=flat-square
+[stars-url]: https://github.com/victorgreco/track-your-day/stargazers
+[issues-shield]: https://img.shields.io/github/issues/victorgreco/track-your-day.svg?style=flat-square
+[issues-url]: https://github.com/victorgreco/track-your-day/issues
+[license-shield]: https://img.shields.io/github/license/victorgreco/track-your-day.svg?style=flat-square
+[license-url]: https://github.com/victorgreco/track-your-day/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/victor-greco/
 [product-screenshot]: images/screenshot.png
